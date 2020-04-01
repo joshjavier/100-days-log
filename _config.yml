@@ -1,6 +1,8 @@
-# Use Leap day theme: github.com/pages-themes/leap-day
+# Build settings
+permalink: pretty
 theme: jekyll-theme-leap-day
 
-title: 100 Days Of Code Log
-description: By Josh Javier
-google_analytics: 
+# Site settings
+title: 100 Days of Code
+description: Daily coding logs by Josh Javier
+google_analytics: ''
