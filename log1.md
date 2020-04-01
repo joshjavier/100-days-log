@@ -1,6 +1,24 @@
 ---
 ---
+[← back to home](README.md)
+
 # Round 1
+
+## 1. Semver, conventional and atomic commits
+
+### Day 1: Wed, April 1, 2020
+
+Read about [semantic versioning](https://semver.org/), [conventional commits](https://www.conventionalcommits.org/), and [atomic commits](https://www.freshconsulting.com/atomic-commits/).
+
+**Thoughts:** Becoming familiar with the concept of atomic commits has helped me become more organized even in projects that are not strictly using version control. One example is an Apps Script to automate some tasks at my day job (I should probably write about this in my blog).
+
+I'm mostly working on small projects for now, so I may not follow these guidelines to a T. But I'll have to keep them in mind when I start working on bigger projects/teams.
+
+**Links:**
+- [Understanding the Git Workflow](https://sandofsky.com/workflow/git-workflow/) &mdash; regular, checkpoint commits vs. clean history
+- [Seven rules of a great Git commit message](https://chris.beams.io/posts/git-commit/#seven-rules)
+
+* * *
 
 ### D0. 2/24/20
 
