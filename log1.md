@@ -1,11 +1,11 @@
 ---
+slug: round-1
 ---
 [← back to home](README.md)
 
 # Round 1
 
 ## 1. Semver, conventional and atomic commits
-
 ### Day 1: Wed, April 1, 2020
 
 Read about [semantic versioning](https://semver.org/), [conventional commits](https://www.conventionalcommits.org/), and [atomic commits](https://www.freshconsulting.com/atomic-commits/).
