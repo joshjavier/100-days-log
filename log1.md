@@ -2,8 +2,24 @@
 
 # Round 1
 
-## 1. Semver, conventional and atomic commits
-### Day 1: Wed, April 1, 2020
+## 2. Sass basics
+### Day 2: Thursday, April 2, 2020
+
+I learned about Sass today! It's like CSS + Javascript, which means it can:
+- set variables
+- use templating syntax
+- use conditional logic in styling
+
+Having a bit of experience in Javascript and Python made the concepts easy to understand, although I'm starting to get confused whether to place a colon `:` or an equal sign `=`
+
+Hopefully I can now understand other blogs' source codes when looking for inspiration for my own site 🕵️
+
+Why use Sass? DRY (Don't Repeat Yourself)
+
+**Link:** [Sass lessons at freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/sass/)
+
+## 1. Semver, commit best practices
+### Day 1: Wednesday, April 1, 2020
 
 Read about [semantic versioning](https://semver.org/), [conventional commits](https://www.conventionalcommits.org/), and [atomic commits](https://www.freshconsulting.com/atomic-commits/).
 
