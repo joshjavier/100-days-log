@@ -1,6 +1,3 @@
----
-slug: round-1
----
 [← back to home](README.md)
 
 # Round 1
